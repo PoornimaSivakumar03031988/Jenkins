@@ -1,0 +1,11 @@
+Started by user [8mha:////4Ao3PmkHEGs3X9AcYv9Gm5Kz1KAiVq+Fk/dolKcXGEJyAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgY+/dLi1CL9gvz8orzM3EQA7umJ4sMAAAA=[0mPoornima Sivakumar
+Running as SYSTEM
+Building in workspace C:\Users\hp\.jenkins\workspace\Assignment Job1
+[Assignment Job1] $ cmd /c call C:\Users\hp\AppData\Local\Temp\jenkins5730077750630882487.bat
+
+C:\Users\hp\.jenkins\workspace\Assignment Job1>echo "Testing job triggered" 
+"Testing job triggered"
+
+C:\Users\hp\.jenkins\workspace\Assignment Job1>exit 0 
+Triggering a new build of [8mha:////4GjM5DKpGgWf/Hq877u9vejnKLwrj+qSPV9niZaifieuAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZx/az8JH3H4uLM9Lzc1LwSVSMDr/wkI30ATRVIz8wAAAA=[0mAssignment Job2
+Finished: SUCCESS
